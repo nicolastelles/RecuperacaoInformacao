@@ -1,4 +1,5 @@
-# RecuperacaoInformacao
+# RecuperacaoInformacao - Trabalho 1
+
 Repositório criado para contemplar as aulas de recuperação da informação
 
 
