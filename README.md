@@ -3,7 +3,7 @@ Repositório criado para contemplar as aulas de recuperação da informação
 
 
 # Trabalho1 
-  - Questão 1
+  ## Questão 1
 A função process_data disponibilizada no arquivo trabalho1_base.R faz um processamento básico dos arquivos,
 similar ao exemplo visto em sala. O resultado é um data.frame com duas colunas: identificador do documento
 e termo. Use o data.frame gerado por essa função para processar a coleção de documentos e as consultas. Em
@@ -11,7 +11,7 @@ seguida, crie uma matriz Termo-Documento com a coleção e calcule as estatísti
 deverão ser convertidas para data.frame. Esses valores serão usados para computar os rankings. Lembre-se de
 configurar os parâmetros b e k, usados para o cálculo do bm25.
 
-- Questão 2
+## Questão 2
 
 Nesta questão, iremos fazer consultas na coleção de documentos e analisar os rankings gerados por essas consultas.
   (a) Implementações: No arquivo inf0611_trabalho1.R, temos um esboço detalhado de uma função que irá gerar
@@ -30,8 +30,7 @@ rankings de cada consulta e responda:
   (i) Qual dos modelos teve o melhor resultado para as consultas escolhidas? Justifique sua resposta. Nesta
 questão você pode usar qualquer uma das medidas de avaliação de ranking vistas na Aula 1.
 
-
-- Questão 3
+## Questão 3
 
 Nesta questão, iremos analisar o impacto das técnicas de processamento de texto.
 (a) Implementações: Repita os passos da Questão 1 modificando a chamada da função process_data para
